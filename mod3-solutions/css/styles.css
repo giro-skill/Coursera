@@ -1,0 +1,37 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	margin-bottom: 30px;
+}
+.container h2 {
+	text-align: center;
+}
+#text {
+	background-color: #9292b9;
+	color: white;
+}
+.navbar {
+	background-color: #9292b9;
+}
+.navbar .navbar-brand {
+	font-size: 40px;
+	color: white;
+}
+.jumbotron {
+	margin-top: 30px;
+	background-color: white;
+}
+.navbar-collapse {
+	text-align: center;
+	font-size: 20px;
+	text-transform: uppercase;
+	color: white;
+}
+#nav-list {
+	background-color: #4747d1;
+}
